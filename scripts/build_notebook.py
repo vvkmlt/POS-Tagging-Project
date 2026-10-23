@@ -28,12 +28,12 @@ cells.append(
 
 **Mini Project / Term Project**
 
-- **Author:** <Your Name>
-- **Roll Number:** <Your Roll Number>
-- **Course:** <Course Name>
-- **Institution:** <Institution Name>
-- **Date:** <Submission Date>
-- **Repository:** <GitHub Repository URL>
+- **Author:** VENKATESH V
+- **Roll Number:** E720524AM034
+- **Course:** B.E - CSE (AI & ML) — Course Code U24DSP13
+- **Institution:** EASA COLLEGE OF ENGINEERING AND TECHNOLOGY
+- **Date:** October 2026
+- **Repository:** https://github.com/vvkmlt/POS-Tagging-Project
 
 ---
 

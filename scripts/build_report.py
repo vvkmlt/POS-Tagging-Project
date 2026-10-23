@@ -191,8 +191,8 @@ report_html = f"""<!doctype html>
 
 <section class="cover">
   <div class="top">
-    <div class="institution">&lt;Institution Name&gt;</div>
-    <div class="department">Department of &lt;Department Name&gt;</div>
+    <div class="institution">EASA COLLEGE OF ENGINEERING AND TECHNOLOGY</div>
+    <div class="department">Department of Computer Science and Engineering (AI &amp; ML)</div>
     <div class="rule"></div>
     <div class="kicker">Term Project Report</div>
     <h1>A Theoretical and Empirical Comparison of Rule-Based, Statistical, and Neural Part-of-Speech Tagging</h1>
@@ -200,12 +200,11 @@ report_html = f"""<!doctype html>
   </div>
 
   <table class="meta">
-    <tr><td>Submitted by</td><td>&lt;Your Name&gt;</td></tr>
-    <tr><td>Roll number</td><td>&lt;Your Roll Number&gt;</td></tr>
-    <tr><td>Course</td><td>&lt;Course Name / Code&gt;</td></tr>
-    <tr><td>Supervisor</td><td>&lt;Supervisor Name&gt;</td></tr>
+    <tr><td>Submitted by</td><td>VENKATESH V</td></tr>
+    <tr><td>Roll number</td><td>E720524AM034</td></tr>
+    <tr><td>Course</td><td>B.E - CSE (AI &amp; ML) &mdash; U24DSP13</td></tr>
     <tr><td>Date</td><td>{date.today().strftime('%d %B %Y')}</td></tr>
-    <tr><td>Repository</td><td>&lt;GitHub Repository URL&gt;</td></tr>
+    <tr><td>Repository</td><td><a href="https://github.com/vvkmlt/POS-Tagging-Project">github.com/vvkmlt/POS-Tagging-Project</a></td></tr>
   </table>
 
   <div class="foot">Submitted in partial fulfilment of the requirements of the term project.</div>
@@ -429,7 +428,7 @@ python scripts/build_report.py
 <tr><td>Project report (PDF)</td><td><code>reports/POS_Tagging_Report.pdf</code></td></tr>
 <tr><td>Output screenshots (PDF)</td><td><code>reports/output_screenshots.pdf</code></td></tr>
 <tr><td>Demo video (MP4)</td><td>Recorded separately; script in <code>reports/demo_video_script.md</code></td></tr>
-<tr><td>GitHub repository</td><td>&lt;GitHub Repository URL&gt;</td></tr>
+<tr><td>GitHub repository</td><td><a href="https://github.com/vvkmlt/POS-Tagging-Project">https://github.com/vvkmlt/POS-Tagging-Project</a></td></tr>
 </tbody>
 </table>
 

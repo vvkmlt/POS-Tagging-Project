@@ -4,6 +4,11 @@ A controlled theoretical and empirical comparison of five Part-of-Speech (POS) t
 Penn Treebank sample: a hand-written regex/lexicon tagger, Brill transformation-based learning,
 a smoothed bigram HMM, an N-gram back-off tagger, and a character-aware BiLSTM.
 
+**Author:** VENKATESH V (E720524AM034)  
+**Course:** B.E - CSE (AI & ML), U24DSP13  
+**Institution:** EASA COLLEGE OF ENGINEERING AND TECHNOLOGY  
+**Repository:** https://github.com/vvkmlt/POS-Tagging-Project
+
 The complete study, including exploratory data analysis, model implementations, evaluation,
 figures, and error analysis, lives in
 [`notebooks/POS_Tagging_Comparison.ipynb`](notebooks/POS_Tagging_Comparison.ipynb).
@@ -128,21 +133,17 @@ python scripts\build_notebook.py
 | Project report (PDF) | `reports/POS_Tagging_Report.pdf` |
 | Output screenshots (PDF) | `reports/output_screenshots.pdf` |
 | Demo video (MP4) | Record using `reports/demo_video_script.md` |
-| GitHub repository | Publish this folder (see below) |
-
-Before submission, replace the placeholders in the report cover and notebook title cell:
-`<Your Name>`, `<Your Roll Number>`, `<Course Name>`, `<Institution Name>`, and
-`<GitHub Repository URL>`.
+| GitHub repository | https://github.com/vvkmlt/POS-Tagging-Project |
 
 ## Publish to GitHub
 
+The repository is initialized locally on `main`. To push updates:
+
 ```powershell
 cd E:\TA
-# A local git repository (branch main) is already initialized.
 git add .
-git commit -m "Rule-based, statistical, and neural POS tagging comparison"
-git branch -M main
-git remote add origin https://github.com/<username>/<repo>.git
+git commit -m "Update POS tagging project"
+git remote add origin https://github.com/vvkmlt/POS-Tagging-Project.git
 git push -u origin main
 ```
 
