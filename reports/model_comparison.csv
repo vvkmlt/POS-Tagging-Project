@@ -1,0 +1,6 @@
+Model,Accuracy,Macro F1,Weighted F1,OOV Accuracy,Tokens,OOV Tokens,Inference Seconds,Tokens/Second,Training Seconds,Error Rate
+Neural (BiLSTM),0.9622,0.9096,0.9618,0.8738,9995,721,2.149,4650.8,186.0,0.0378
+Statistical (HMM),0.9301,0.8959,0.9292,0.6824,9995,721,0.271,36885.0,0.09,0.0699
+Rule-Based (Brill TBL),0.9162,0.9022,0.9179,0.2372,9995,721,0.043,233053.2,3.49,0.0838
+Statistical (N-gram Backoff),0.87,0.8667,0.8746,0.1872,9995,721,0.011,898863.3,0.38,0.13
+Rule-Based (Regex),0.7388,0.5322,0.6982,0.6241,9995,721,0.01,968836.3,0.0,0.2612
