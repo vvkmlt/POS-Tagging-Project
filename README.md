@@ -132,7 +132,7 @@ python scripts\build_notebook.py
 | Jupyter notebook | `notebooks/POS_Tagging_Comparison.ipynb` |
 | Project report (PDF) | `reports/POS_Tagging_Report.pdf` |
 | Output screenshots (PDF) | `reports/output_screenshots.pdf` |
-| Demo video (MP4) | Record using `reports/demo_video_script.md` |
+| Demo video (MP4) | `reports/demo_video.mp4` (2:57, narrated slideshow) |
 | GitHub repository | https://github.com/vvkmlt/POS-Tagging-Project |
 
 ## Publish to GitHub
